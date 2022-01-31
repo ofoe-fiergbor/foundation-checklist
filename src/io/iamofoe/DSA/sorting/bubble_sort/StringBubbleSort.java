@@ -2,6 +2,9 @@ package io.iamofoe.DSA.sorting.bubble_sort;
 
 import java.util.Arrays;
 
+/**
+ * O(N^2) TIME COMPLEXITY
+ * */
 public class StringBubbleSort {
 
     public static void main(String[] args) {
